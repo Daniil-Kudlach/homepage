@@ -1,0 +1,20 @@
+.contacts li a.twitter:hover {
+    color: #00ACEE;
+}
+
+.contacts li a.instagram:hover {
+    color: #bc2a8d;
+}
+
+.timeline li p small{
+    font-weight: bold;
+}
+
+.avatar{
+    width: 100%;
+    transition: filter 1s linear;
+}
+
+.avatar:hover{
+    filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
