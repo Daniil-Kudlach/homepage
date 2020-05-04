@@ -26,3 +26,13 @@
 .avatar:hover{
     filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
 }
+
+.details label span{
+    font-weight: 700;
+    font-size: 1.25rem;
+    letter-spacing: 0.15em;
+    line-height: 1.28571429em;
+    margin: 0 0 1rem 0;
+    padding: 0;
+    display: block;
+}
