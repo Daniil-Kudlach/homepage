@@ -1,3 +1,11 @@
+.contacts li a svg {
+    padding:0 8px 0 8px;
+}
+
+.contacts li a {
+    line-height: 48px;
+}
+
 .contacts li a.twitter:hover {
     color: #00ACEE;
 }
