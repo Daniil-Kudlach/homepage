@@ -1,0 +1,38 @@
+.contacts li a svg {
+  padding: 0 8px 0 0;
+}
+
+.contacts li a {
+  line-height: 48px;
+}
+
+.contacts li a.twitter:hover {
+  color: #00acee;
+}
+
+.contacts li a.instagram:hover {
+  color: #bc2a8d;
+}
+
+.timeline li p small {
+  font-weight: bold;
+}
+
+.avatar {
+  width: 100%;
+  transition: filter 1s linear;
+}
+
+.avatar:hover {
+  filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
+
+.details label span {
+  font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 0.15em;
+  line-height: 1.28571429em;
+  margin: 0 0 1rem 0;
+  padding: 0;
+  display: block;
+}
